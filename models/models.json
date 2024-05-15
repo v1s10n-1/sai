@@ -1,0 +1,46 @@
+{
+    "models": [
+        {
+            "name": "01-ai Yi Chat",
+            "modelString": "zero-one-ai/Yi-34B-Chat",
+            "paramB": 34,
+            "contextLength": 4096,
+            "cost": 0.8
+        },
+        {
+            "name": "OLMo Instruct",
+            "modelString": "allenai/OLMo-7B-Instruct",
+            "paramB": 34,
+            "contextLength": 2048,
+            "cost": 0.2
+        },
+        {
+            "name": "OLMo Instruct",
+            "modelString": "allenai/OLMo-7B-Instruct",
+            "paramB": 34,
+            "contextLength": 2048,
+            "cost": 0.2
+        },
+        {
+            "name": "OLMo Instruct",
+            "modelString": "allenai/OLMo-7B-Instruct",
+            "paramB": 34,
+            "contextLength": 2048,
+            "cost": 0.2
+        },
+        {
+            "name": "OLMo Instruct",
+            "modelString": "allenai/OLMo-7B-Instruct",
+            "paramB": 34,
+            "contextLength": 2048,
+            "cost": 0.2
+        },
+        {
+            "name": "OLMo Instruct",
+            "modelString": "allenai/OLMo-7B-Instruct",
+            "paramB": 34,
+            "contextLength": 2048,
+            "cost": 0.2
+        }
+    ]
+}
